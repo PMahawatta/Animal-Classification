@@ -6,7 +6,9 @@ further study and/or improve habitat, environmental, and extinction pat.
 
 
 Objectives –
+
 Ø Create a CNN model to find similar features in images belonging to different 
 classes and using them to identify and label images. (Classification of animal 
 images) 
+
 Ø Evaluate the loss and accuracy of the model.
